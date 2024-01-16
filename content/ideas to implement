@@ -1,0 +1,21 @@
+Create a site for people in Brazil and one for people in the US (/br or /us)
+    - people can choose which one in a modal at the beginning (maybe use bootstrap to make styling easy)
+    - in each the registry would have to be different if we decide to do something like that so people can send us money in different currencies if they wish to do so (maybe just use PayPal?)
+
+For the BR:
+    - invitation/description
+    - date/time
+    - location
+    - itinerary
+    - registry?
+
+
+For the US:
+    - invitation/description
+    - date/time
+    - location
+    - itinerary
+    - registry
+    - travel tips
+    - accomodation options
+    - what to do around
